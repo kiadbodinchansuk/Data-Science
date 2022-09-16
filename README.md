@@ -1,6 +1,10 @@
 # Data-Science
 <img src="https://echarts.apache.org/en/images/logo.png" width="200">  <img src="https://www.chartjs.org/docs/latest/favicon.ico" >  <img src="https://wp-assets.highcharts.com/svg/highcharts-logo.svg" > 
 
+# ส่งที่นัก Data Scientist ควรทราบสำหรับใช้วิเคราะห์ข้อมูล
+* https://pandas.pydata.org/
+* https://pypi.org/project/numpy/
+
 Data Science
 # Api JavaScript libary สำหรับการทำ Dashboard ในการวิเคราะห์ข้อมูลทางสถิติเพื่อแสดงออกมาเป็นกราฟ
 * https://www.chartjs.org/
