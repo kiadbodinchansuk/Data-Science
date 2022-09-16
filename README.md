@@ -1,5 +1,5 @@
 # Data-Science
-<img src="https://echarts.apache.org/en/images/logo.png" width="150"> <img src="https://www.chartjs.org/docs/latest/favicon.ico" > 
+<img src="https://echarts.apache.org/en/images/logo.png" width="200">  <img src="https://www.chartjs.org/docs/latest/favicon.ico" >  <img src="https://wp-assets.highcharts.com/svg/highcharts-logo.svg" > 
 
 Data Science
 # Api JavaScript libary สำหรับการทำ Dashboard ในการวิเคราะห์ข้อมูลทางสถิติเพื่อแสดงออกมาเป็นกราฟ
